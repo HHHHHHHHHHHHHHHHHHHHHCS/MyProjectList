@@ -14,6 +14,27 @@
 3.UI阴影描边
 ![UI阴影描边](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/UI%E9%98%B4%E5%BD%B1%E6%8F%8F%E8%BE%B9.png)
 
+4.HSV颜色替换
+![HSV颜色替换](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/HSV%E9%A2%9C%E8%89%B2%E6%9B%BF%E6%8D%A2.png)
+
+5.UI像素化
+![UI像素化](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/UI%E5%83%8F%E7%B4%A0%E5%8C%96.png)
+
+6.UI像素旋转
+![UI像素旋转](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/UI%E5%83%8F%E7%B4%A0%E6%97%8B%E8%BD%AC.png)
+
+7.UI取灰
+![UI取灰](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/UI%E5%8F%96%E7%81%B0.png)
+
+8.UI图片过渡
+![UI图片过渡](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/UI%E5%9B%BE%E7%89%87%E8%BF%87%E6%B8%A1.png)
+
+9.UI彩色
+![UI彩色](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/UI%E5%BD%A9%E8%89%B2.png)
+
+10.UI颜色替换.
+![UI颜色替换.](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/Shader/UI/UI%E9%A2%9C%E8%89%B2%E6%9B%BF%E6%8D%A2.png)
+
 
 
 ## 光照
