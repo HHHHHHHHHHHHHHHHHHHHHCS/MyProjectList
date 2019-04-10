@@ -74,4 +74,11 @@
 ## 飞机大战
 ![](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/%E8%87%AA%E5%AD%A6/%E9%A3%9E%E6%9C%BA%E5%A4%A7%E6%88%98.png)
 
+## 黑魂
+![](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/%E8%87%AA%E5%AD%A6/%E9%BB%91%E9%AD%821.png)
+![](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/%E8%87%AA%E5%AD%A6/%E9%BB%91%E9%AD%822.png)
+![](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/%E8%87%AA%E5%AD%A6/%E9%BB%91%E9%AD%823.png)
+![](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/%E8%87%AA%E5%AD%A6/%E9%BB%91%E9%AD%824.png)
+![](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/%E8%87%AA%E5%AD%A6/%E9%BB%91%E9%AD%825.png)
+![](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/%E8%87%AA%E5%AD%A6/%E9%BB%91%E9%AD%826.png)
 
