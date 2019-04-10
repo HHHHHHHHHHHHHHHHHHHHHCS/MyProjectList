@@ -8,4 +8,4 @@ SLG
 ![兵营](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/SLG/6.jpg)
 ![兵营](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/SLG/7.jpg)
 ![锻造](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/SLG/8.jpg)
-![材料](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/SLG/9.jpg)
+![材料](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/SLG/9.png)
