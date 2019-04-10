@@ -1,5 +1,6 @@
 # SLG
-SLG
+关于SLG的项目.
+
 1.主城
 ![主城](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/SLG/1.jpg)
 
