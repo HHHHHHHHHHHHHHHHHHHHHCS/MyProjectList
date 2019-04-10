@@ -25,8 +25,8 @@ UE4项目
 7.走廊
 ![走廊](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/UE4/%E8%B5%B0%E5%BB%8A.jpg)
 
-7.阳台
+8.阳台
 ![阳台](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/UE4/%E9%98%B3%E5%8F%B0.jpg)
 
-7.餐厅
-![餐厅](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/UE4/%E9%A4%90%E5%8E%85.jpgg)
+9.餐厅
+![餐厅](https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyProjectList/blob/master/UE4/%E9%A4%90%E5%8E%85.jpg)
